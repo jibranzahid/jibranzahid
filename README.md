@@ -1,3 +1,4 @@
+![logo](https://github.com/jibranzahid/jibranzahid/blob/main/360_F_514613885_EcXXNIh2aC0KuKE8ddZgKeAOLMrlfnlN.jpg)
 <h1 align="center">Hi 👋, I'm Jibran bin Zahid</h1>
 <h3 align="center">A passionate Computer Engineer from Pakistan</h3>
 
